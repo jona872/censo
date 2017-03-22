@@ -101,9 +101,11 @@ PLANES FUTUROS
 
 Active Collaborators
 ========================
-* [Martín Rabaglia] </br>
-* [Franco Rabaglia] </br>
-<a href="https://github.com/jona872" target="_blank">* [Jonatan Santana]</a>
+<ul>
+	<li> <a href="https://github.com/tinchoforever" target="_blank">[Martín Rabaglia]</a> </li>
+	<li> <a href="https://github.com/FrancooHM" target="_blank">[Franco Rabaglia]</a> </li>
+	<li> <a href="https://github.com/jona872" target="_blank">[Jonatan Santana]</a> </li>
+</ul>
 
 <!--
 * [Martín Rabaglia] 
