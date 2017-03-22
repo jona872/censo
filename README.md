@@ -14,11 +14,6 @@ Version v.4
 
 
 
-Cargografías es una linea de tiempo que muestra los cargos públicos que tuvo cada funcionario a lo largo de su vida. Es una fuente de consulta que busca facilitar el analisis y comprensión de la historia reciente argentina.
-
-La base de datos de Cargografias, fue creada sumando y curando diversas fuentes. No esta completa y se seguira completando y corrigiendo continuamente. Asimismo, la herramienta de visualizacion y consulta, seguira creciendo y agregando funciones.
-
-Cargografías esta siempre dispuesto a corregir, aumentar y editar la base de datos para que la información sea fiel a la realidad y accesible a todos los ciudadanos.
 
 
 BUSCAR Y COMPARAR 
