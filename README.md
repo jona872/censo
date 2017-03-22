@@ -4,7 +4,10 @@ Huesped - #Dónde
 
 <!-- ### La línea de tiempo de Funcionarios Polícitcos -->
 
-Version v.4  
+Version 3
+
+{{ Intro text + posible screenShot }}
+
 
 <!-- <img src="http://40.media.tumblr.com/71df2704f63865f5d42697631e73d4f5/tumblr_nfmcfzeGMG1qeky8ko1_1280.jpg"> -->
 
@@ -13,10 +16,10 @@ Version v.4
 
 
 
-
-BUSCAR Y COMPARAR 
+BUSCAR, CONSULTAR Y EVALUAR
 =========================
-Cargografías aspira a una arquitectura de datos que pueda reflejar, sintetizar y simplificar el entramado gubernamental. Una forma de humanizar esta estructura es a fuerza de nombres y apellidos, partidos, cargos y funciones.
+{{ Description Text }}
+<!--Cargografías aspira a una arquitectura de datos que pueda reflejar, sintetizar y simplificar el entramado gubernamental. Una forma de humanizar esta estructura es a fuerza de nombres y apellidos, partidos, cargos y funciones.
 
 
 * No es una historia, pero sí un recorrido.
@@ -25,11 +28,11 @@ Cargografías aspira a una arquitectura de datos que pueda reflejar, sintetizar 
 * Los destinatarios, los ciudadanos. 
 
 
-Cargografías busca agrupar en una sola herramienta, datos publicos que se encuentran dispersos o inaccesibles, para brindarlos a la comunidad.
+Cargografías busca agrupar en una sola herramienta, datos publicos que se encuentran dispersos o inaccesibles, para brindarlos a la comunidad. -->
 
 
 
-Requerimientos
+REQUERIMIENTOS
 ==============
 
 
@@ -82,6 +85,7 @@ $  node static-local.js
 PLANES FUTUROS 
 ========================
 
+<!--
 - Mejorar la interfase y la performance del sitio 
 - Sumar otras fuentes de datos (DDJJ de La Nacion Data, por ej) 
 - Conseguir financiación para pagar gastos (hosting, galletitas, horas de programadores) 
@@ -93,10 +97,15 @@ PLANES FUTUROS
 
 [¿Tenés mas ideas? ¿Ganas de sumarte? Contactanos aqui]
 (https://docs.google.com/forms/d/1NoOYENvhHXqpLO3WpB8l6R8ofJkJiShLlx2A_DfrNd0/viewform)
-
+-->
 
 Active Collaborators
-=======
+========================
+* [Martín Rabaglia] 
+* [Franco Rabaglia] 
+<a href="https://github.com/jona872">* [Jonatan Santana]</a>
+
+<!--
 * [Martín Rabaglia] 
 * [Andres Snitcofsky] 
 * [Daniel Calligaro]
@@ -104,6 +113,8 @@ Active Collaborators
 Past Collaborators
 =========
 * [Palamago]
+
+-->
 
 
 
