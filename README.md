@@ -34,8 +34,8 @@ Cargografías busca agrupar en una sola herramienta, datos publicos que se encue
 
 REQUERIMIENTOS
 ==============
-
-
+{{ Description Text }}
+<!--
 ### Que software tenes que instalar?
 
 
@@ -80,11 +80,11 @@ $  node static-local.js
 
 * Abri tu navegador en 'http://localhost:3001' y navega.
 
-
+-->
 
 PLANES FUTUROS 
 ========================
-
+{{ Description Text }}
 <!--
 - Mejorar la interfase y la performance del sitio 
 - Sumar otras fuentes de datos (DDJJ de La Nacion Data, por ej) 
